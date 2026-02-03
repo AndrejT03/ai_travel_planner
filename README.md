@@ -89,6 +89,7 @@ lib/
     ├── favorite_card.dart
     ├── glass.dart
     └── main_scaffold.dart
+```
 
 ## 🚀 Како да стартуваш локално
 
