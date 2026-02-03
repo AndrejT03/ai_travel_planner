@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734974743871",
+    "project_id": "my-ai-travel-planner",
+    "storage_bucket": "my-ai-travel-planner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734974743871:android:978c28808e0ef1e7ab2f8a",
+        "android_client_info": {
+          "package_name": "com.example.ai_travel_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734974743871-5bqlnovf3hvp9qkm7uttndl92aiapu5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7hcnMsrMdz0XvcHiw3VW665tcGsIL5mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734974743871-5bqlnovf3hvp9qkm7uttndl92aiapu5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
